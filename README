@@ -1,0 +1,61 @@
+# Quiz Application in C++
+
+A simple **console-based Quiz Application** built using **C++ and DSA concepts**.  
+This project demonstrates:
+- Use of arrays, structures, and loops
+- Input/output handling in C++
+- Score calculation and display
+- Clean modular code
+
+---
+
+## Features
+✅ Multiple-choice questions  
+✅ Automatic score calculation  
+✅ User-friendly menu system  
+✅ Easily extendable (add more questions)
+
+---
+
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/Quiz-Application.git
+   cd Quiz-Application/src
+   ```
+2. Compile the code:
+   ```bash
+   g++ quiz.cpp -o quiz
+   ```
+3. Run the application:
+   ```bash
+   ./quiz
+   ```
+
+---
+
+## Sample Output
+```
+Welcome to the Quiz Application!
+
+Q1: Who developed the C programming language?
+1. Dennis Ritchie
+2. Bjarne Stroustrup
+3. James Gosling
+4. Guido van Rossum
+Your Answer: 1
+
+Correct!
+
+... (more questions)
+
+Final Score: 4 / 5
+```
+
+---
+
+## Skills Highlighted
+- C / C++ Programming
+- Data Structures (arrays, structs)
+- Problem Solving & Logic
+- Console-based Application Development
